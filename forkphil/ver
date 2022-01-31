@@ -1,0 +1,475 @@
+transicion empieza con guarda (i==p) && (d==(p+1)%5)
+transicion termina con guarda 1==1
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+La guarda  1==1 evaluo con true 0
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 0
+La guarda  1==1 evaluo con true 2
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 2
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+La guarda  1==1 evaluo con true 1
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 1
+La guarda  1==1 evaluo con true 3
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 3
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+La guarda  1==1 evaluo con true 4
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 4
+La guarda  1==1 evaluo con true 2
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 2
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+La guarda  1==1 evaluo con true 0
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 0
+La guarda  1==1 evaluo con true 3
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 3
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+La guarda  1==1 evaluo con true 1
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 1
+La guarda  1==1 evaluo con true 4
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 4
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+La guarda  1==1 evaluo con true 2
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 2
+La guarda  1==1 evaluo con true 0
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 0
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+La guarda  1==1 evaluo con true 3
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 3
+La guarda  1==1 evaluo con true 1
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 1
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+La guarda  1==1 evaluo con true 4
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 4
+La guarda  1==1 evaluo con true 2
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 2
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+La guarda  1==1 evaluo con true 0
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 0
+La guarda  1==1 evaluo con true 3
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 3
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+La guarda  1==1 evaluo con true 1
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 1
+La guarda  1==1 evaluo con true 4
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 4
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+La guarda  1==1 evaluo con true 2
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 2
+La guarda  1==1 evaluo con true 0
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 0
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+La guarda  1==1 evaluo con true 3
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 3
+La guarda  1==1 evaluo con true 1
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 1
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+La guarda  1==1 evaluo con true 4
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 4
+La guarda  1==1 evaluo con true 2
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 2
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+La guarda  1==1 evaluo con true 0
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 0
+La guarda  1==1 evaluo con true 3
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 3
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+La guarda  1==1 evaluo con true 1
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 1
+La guarda  1==1 evaluo con true 4
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 4
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+La guarda  1==1 evaluo con true 2
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 2
+La guarda  1==1 evaluo con true 0
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 0
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+La guarda  1==1 evaluo con true 3
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 3
+La guarda  1==1 evaluo con true 1
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 1
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+La guarda  1==1 evaluo con true 4
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 4
+La guarda  1==1 evaluo con true 2
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 2
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+La guarda  1==1 evaluo con true 0
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 0
+La guarda  1==1 evaluo con true 3
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 3
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+La guarda  1==1 evaluo con true 1
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 1
+La guarda  1==1 evaluo con true 4
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 4
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+La guarda  1==1 evaluo con true 2
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 2
+La guarda  1==1 evaluo con true 0
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 0
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+La guarda  1==1 evaluo con true 3
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 3
+La guarda  1==1 evaluo con true 1
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 1
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+La guarda  1==1 evaluo con true 4
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 4
+La guarda  1==1 evaluo con true 2
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 2
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+La guarda  1==1 evaluo con true 0
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 0
+La guarda  1==1 evaluo con true 3
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 3
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+La guarda  1==1 evaluo con true 1
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 1
+La guarda  1==1 evaluo con true 4
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 4
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+La guarda  1==1 evaluo con true 2
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 2
+La guarda  1==1 evaluo con true 0
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 0
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+La guarda  1==1 evaluo con true 3
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 3
+La guarda  1==1 evaluo con true 1
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 1
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+La guarda  1==1 evaluo con true 4
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 4
+La guarda  1==1 evaluo con true 2
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 2
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+La guarda  1==1 evaluo con true 0
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 0
+La guarda  1==1 evaluo con true 3
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 3
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+La guarda  1==1 evaluo con true 1
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 1
+La guarda  1==1 evaluo con true 4
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 4
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+La guarda  1==1 evaluo con true 2
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 2
+La guarda  1==1 evaluo con true 0
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 0
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+La guarda  1==1 evaluo con true 3
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 3
+La guarda  1==1 evaluo con true 1
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 1
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+La guarda  1==1 evaluo con true 4
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 4
+La guarda  1==1 evaluo con true 2
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 2
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+La guarda  1==1 evaluo con true 0
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 0
+La guarda  1==1 evaluo con true 3
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 3
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+La guarda  1==1 evaluo con true 1
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 1
+La guarda  1==1 evaluo con true 4
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 4
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+La guarda  1==1 evaluo con true 2
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 2
+La guarda  1==1 evaluo con true 0
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 0
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 1 1 2
+La guarda  1==1 evaluo con true 3
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 3
+La guarda  1==1 evaluo con true 1
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 1
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 4 4 0
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 2 2 3
+La guarda  1==1 evaluo con true 4
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 4
+La guarda  1==1 evaluo con true 2
+Ejecutando en transicion termina
+La guarda  1==1 evaluo con true 2
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 0 0 1
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+Ejecutando en transicion empieza
+La guarda  (i==p) && (d==(p+1)%5) evaluo con true 3 3 4
+en el arco entrada empieza con varname p
+hay : 1
+hay : 4
+hay : 2
+en el arco entrada empieza con varname i
+hay : 2
+en el arco entrada empieza con varname d
+hay : 2
+en el arco entrada termina con varname p
+hay : 0
+hay : 3
